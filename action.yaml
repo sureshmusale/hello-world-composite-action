@@ -21,5 +21,4 @@ runs:
       shell: bash
     - run: |
         echo "executing goodbye.sh"
-        chmod +x goodbye.sh
         shell: bash
